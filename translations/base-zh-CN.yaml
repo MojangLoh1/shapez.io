@@ -776,7 +776,7 @@ settings:
             title: 记忆建筑方向
             description: 每一类建筑都会记住各自上一次的旋转方向。如果你经常在不同建筑类型之间切换，这个设置会让游戏更加舒适。
         soundVolume:
-            title: Sound Volume
+            title: 音量
             description: Set the volume for sound effects
         musicVolume:
             title: Music Volume
@@ -930,7 +930,7 @@ tips:
     - The painter has a mirrored variant which you can select with <b>T</b>
     - Having the right building ratios will maximize efficiency.
     - At maximum level, 5 extractors will fill a single belt.
-    - Don't forget about tunnels!
+    - 不要忘记使用隧道！
     - You don't need to divide up items evenly for full efficiency.
     - Holding <b>SHIFT</b> will activate the belt planner, letting you place
       long lines of belts easily.
@@ -945,7 +945,7 @@ tips:
     - Machines have a limited speed, divide them up for maximum efficiency.
     - Use balancers to maximize your efficiency.
     - Organization is important. Try not to cross conveyors too much.
-    - Plan in advance, or it will be a huge chaos!
+    - 提前设计好，要不然就乱套了！
     - Don't remove your old factories! You'll need them to unlock upgrades.
     - Try beating level 20 on your own before seeking for help!
     - Don't complicate things, try to stay simple and you'll go far.
@@ -963,7 +963,7 @@ tips:
     - The pin icon next to each shape in the upgrade list pins it to the screen.
     - Mix all primary colors together to make white!
     - You have an infinite map, don't cramp your factory, expand!
-    - Also try Factorio! It's my favorite game.
+    - 试一试Factorio吧！这是我最喜欢的游戏！
     - The quad cutter cuts clockwise starting from the top right!
     - You can download your savegames in the main menu!
     - This game has a lot of useful keybindings! Be sure to check out the
